@@ -1,4 +1,4 @@
-# use Rl play game made by pygame
+# use Reinforcement-Learning play game made by pygame
 
 ## english
 
