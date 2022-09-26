@@ -1,5 +1,4 @@
-# pygame-RL
-*use Rl play game made by pygame
+# use Rl play game made by pygame
 
 ## english
 
