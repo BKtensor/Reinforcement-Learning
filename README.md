@@ -1,13 +1,13 @@
 # pygame-RL
 *use Rl play game made by pygame
 
-**english
+## english
 
 
 
 
 
-**中文
+## 中文
 
 用Pygame做了一个小游戏，然后用不同的强化学习方法来玩。（model-free）
 不同的方法，保存为不同的标题。
